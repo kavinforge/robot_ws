@@ -1,0 +1,1 @@
+Invoking command in '/home/forge/arti_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/forge/arti_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake /home/forge/arti_ws/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/forge/arti_ws/install/articubot_one

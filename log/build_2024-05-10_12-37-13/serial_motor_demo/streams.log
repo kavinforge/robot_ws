@@ -1,0 +1,18 @@
+[0.976s] Invoking command in '/home/forge/arti_ws/build/serial_motor_demo': LD_LIBRARY_PATH=/home/forge/arti_ws/install/serial_motor_demo_msgs/lib:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/forge/arti_ws/build/serial_motor_demo/prefix_override:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/forge/arti_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/forge/arti_ws/build/serial_motor_demo:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/forge/arti_ws/build/serial_motor_demo/build --no-deps symlink_data
+[1.339s] running develop
+[1.570s] running egg_info
+[1.570s] writing serial_motor_demo.egg-info/PKG-INFO
+[1.571s] writing dependency_links to serial_motor_demo.egg-info/dependency_links.txt
+[1.571s] writing entry points to serial_motor_demo.egg-info/entry_points.txt
+[1.571s] writing requirements to serial_motor_demo.egg-info/requires.txt
+[1.571s] writing top-level names to serial_motor_demo.egg-info/top_level.txt
+[1.610s] reading manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[1.611s] writing manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[1.670s] running build_ext
+[1.670s] Creating /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial-motor-demo.egg-link (link to .)
+[1.673s] Installing driver script to /home/forge/arti_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.674s] Installing gui script to /home/forge/arti_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.674s] 
+[1.674s] Installed /home/forge/arti_ws/build/serial_motor_demo
+[1.674s] running symlink_data
+[1.721s] Invoked command in '/home/forge/arti_ws/build/serial_motor_demo' returned '0': LD_LIBRARY_PATH=/home/forge/arti_ws/install/serial_motor_demo_msgs/lib:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/forge/arti_ws/build/serial_motor_demo/prefix_override:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/forge/arti_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/forge/arti_ws/build/serial_motor_demo:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/forge/arti_ws/build/serial_motor_demo/build --no-deps symlink_data

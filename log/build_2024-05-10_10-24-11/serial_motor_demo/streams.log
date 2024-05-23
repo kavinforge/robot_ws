@@ -1,0 +1,40 @@
+[0.538s] Invoking command in '/home/forge/arti_ws/build/serial_motor_demo': LD_LIBRARY_PATH=/home/forge/arti_ws/install/serial_motor_demo_msgs/lib:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/forge/arti_ws/build/serial_motor_demo/prefix_override:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/forge/arti_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/forge/arti_ws/build/serial_motor_demo:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/forge/arti_ws/build/serial_motor_demo/build
+[0.736s] running develop
+[0.852s] Removing /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial-motor-demo.egg-link (link to .)
+[0.868s] Invoked command in '/home/forge/arti_ws/build/serial_motor_demo' returned '0': LD_LIBRARY_PATH=/home/forge/arti_ws/install/serial_motor_demo_msgs/lib:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/forge/arti_ws/build/serial_motor_demo/prefix_override:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/forge/arti_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/forge/arti_ws/build/serial_motor_demo:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/forge/arti_ws/build/serial_motor_demo/build
+[0.871s] Invoking command in '/home/forge/arti_ws/serial_motor_demo/serial_motor_demo': LD_LIBRARY_PATH=/home/forge/arti_ws/install/serial_motor_demo_msgs/lib:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/forge/arti_ws/build/serial_motor_demo/prefix_override:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/forge/arti_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/forge/arti_ws/build/serial_motor_demo:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serial_motor_demo build --build-base /home/forge/arti_ws/build/serial_motor_demo/build install --record /home/forge/arti_ws/build/serial_motor_demo/install.log --install-scripts $base/lib/serial_motor_demo --single-version-externally-managed install_data --force
+[1.049s] running egg_info
+[1.050s] writing ../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+[1.050s] writing dependency_links to ../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+[1.051s] writing entry points to ../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+[1.051s] writing requirements to ../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+[1.051s] writing top-level names to ../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+[1.080s] reading manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[1.080s] writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[1.080s] running build
+[1.080s] running build_py
+[1.081s] creating /home/forge/arti_ws/build/serial_motor_demo/build
+[1.081s] creating /home/forge/arti_ws/build/serial_motor_demo/build/lib
+[1.081s] creating /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[1.081s] copying serial_motor_demo/__init__.py -> /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[1.081s] copying serial_motor_demo/driver.py -> /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[1.081s] copying serial_motor_demo/gui.py -> /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[1.081s] running install
+[1.082s] running install_lib
+[1.083s] creating /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[1.083s] copying /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo/__init__.py -> /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[1.083s] copying /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo/driver.py -> /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[1.083s] copying /home/forge/arti_ws/build/serial_motor_demo/build/lib/serial_motor_demo/gui.py -> /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[1.084s] byte-compiling /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo/__init__.py to __init__.cpython-38.pyc
+[1.085s] byte-compiling /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo/driver.py to driver.cpython-38.pyc
+[1.086s] byte-compiling /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo/gui.py to gui.cpython-38.pyc
+[1.087s] running install_data
+[1.087s] copying resource/serial_motor_demo -> /home/forge/arti_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+[1.087s] copying package.xml -> /home/forge/arti_ws/install/serial_motor_demo/share/serial_motor_demo
+[1.088s] running install_egg_info
+[1.089s] Copying ../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo-0.0.0-py3.8.egg-info
+[1.090s] running install_scripts
+[1.103s] Installing driver script to /home/forge/arti_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.103s] Installing gui script to /home/forge/arti_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.104s] writing list of installed files to '/home/forge/arti_ws/build/serial_motor_demo/install.log'
+[1.121s] Invoked command in '/home/forge/arti_ws/serial_motor_demo/serial_motor_demo' returned '0': LD_LIBRARY_PATH=/home/forge/arti_ws/install/serial_motor_demo_msgs/lib:/usr/lib/x86_64-linux-gnu/:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/forge/arti_ws/build/serial_motor_demo/prefix_override:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/forge/arti_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/forge/arti_ws/build/serial_motor_demo:/home/forge/arti_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serial_motor_demo build --build-base /home/forge/arti_ws/build/serial_motor_demo/build install --record /home/forge/arti_ws/build/serial_motor_demo/install.log --install-scripts $base/lib/serial_motor_demo --single-version-externally-managed install_data --force

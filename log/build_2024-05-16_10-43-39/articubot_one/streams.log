@@ -1,0 +1,13 @@
+[0.133s] Invoking command in '/home/forge/arti_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/forge/arti_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake /home/forge/arti_ws/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/forge/arti_ws/install/articubot_one
+[0.546s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.717s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.175s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.306s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.614s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.655s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.657s] -- Added test 'lint_cmake' to check CMake code style
+[1.659s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.666s] -- Added test 'xmllint' to check XML markup files
+[1.673s] -- Configuring done
+[1.752s] -- Generating done
+[1.756s] -- Build files have been written to: /home/forge/arti_ws/build/articubot_one
