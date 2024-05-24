@@ -1,1 +1,0 @@
-Invoking command in '/home/forge/arti_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/forge/arti_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake --build /home/forge/arti_ws/build/articubot_one -- -j8 -l8
